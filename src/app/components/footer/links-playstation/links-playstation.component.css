@@ -1,0 +1,25 @@
+.links-ps__item{
+	margin: auto;
+	padding: 2rem;
+}
+
+.links-ps__item > ul{
+	list-style-type: none;
+}
+
+.links-ps__item > ul > li{
+	padding: 5px;
+	margin-right: 5px;
+}
+
+.links-ps__item > ul > li > a{
+	text-decoration: none;
+	padding: 5px;
+	color: #fff;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.links-ps__item > ul > li > a:hover{
+	color: blue;
+	font-weight: 600;
+}
